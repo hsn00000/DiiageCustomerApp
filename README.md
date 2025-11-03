@@ -73,6 +73,7 @@
 - Vous pouvez voir des workflows suggérés ; nous allons créer un workflow personnalisé.
 - Cliquez sur **"New workflow"**, puis sur **"set up a workflow yourself"**.
 - **Nom du fichier** : `.github/workflows/sonarcloud.yml`
+- Créer un fichier .NET
 
 ---
 
